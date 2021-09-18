@@ -1,10 +1,10 @@
-# Plantilla README
+# README
 
 Proyecto desarrollado por el grupo de trabajo SoftwareChasers();
 
 ---
 
-## **INFORMACIÓN RELEVANTE:**
+# **Desarrollo de Software para la empresa Organic Fashion**
 
 ---
 
@@ -22,11 +22,10 @@ Proyecto desarrollado por el grupo de trabajo SoftwareChasers();
     -  Estara dividio en diferentes etapas para su culminacion siendo la de conformar el grupo de trabajo y configuracion de git y github la primera.
 
 
-## **Descripcion del Proyecto:**
 
 ---
 
-# **Desarrollo de Software para la empresa Organic Fashion**
+## **Descripcion del proyecto**
 
 *Organic Fashion es una empresa de manufactura que se encarga de hacer, comprar y vender ropa por todo el mundo*
 
@@ -45,7 +44,7 @@ Se utilizaran diferentes tecnologias para el desarrollo tanto de Frontend como B
 
 *El proyecto estara construido con:*
 
-- [React](htttps://es.reactjs.org/) - Una biblioteca de JavaScript para construir interfaces de usuario
+- [React](https://es.reactjs.org/) - Una biblioteca de JavaScript para construir interfaces de usuario
 - [Nodejs + Express](https://expressjs.com/es/) - Infraestructura web rapida, minimalista y flexible para Node.js
 - HTML5
 - CSS3
@@ -60,7 +59,7 @@ Usamos [Git y Github](http://github.com/) para el versionado.
 
 *SoftwareChasers();*
 
-- **Joan Samir Rosales Cadena** - [joansrc](https://github.co/joansrc)
+- **Joan Samir Rosales Cadena** - [joansrc](https://github.com/joansrc)
 
 Soy Ingeniero Electronico de la ciudad de Cali, actualmente trabajo en una empresa de telecomunicaciones de mi ciudad y estoy en el programa de Mintic, para aprender y reforzar mucho mas mis conocimientos acerca del desarrollo de  software.
 
