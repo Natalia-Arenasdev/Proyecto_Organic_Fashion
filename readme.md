@@ -16,6 +16,7 @@ Proyecto desarrollado por el grupo de trabajo SoftwareChasers();
     5.
 
 
+
 - 📕 **Acerca del proyecto:**
     -  Se desarrolla este proyecto para Mision Mintic UdeA.
     -  El proyecto trata acerca de un desarrollo de software para una empresa de manufactura de ropa que hemos llamado Organic Fashion.
