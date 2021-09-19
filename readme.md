@@ -16,6 +16,8 @@ Proyecto desarrollado por el grupo de trabajo SoftwareChasers();
     5.  Yoiner Esmith Molina Hurtatiz - Product Owner
 
 
+
+
 - 📕 **Acerca del proyecto:**
     -  Se desarrolla este proyecto para Mision Mintic UdeA.
     -  El proyecto trata acerca de un desarrollo de software para una empresa de manufactura de ropa que hemos llamado Organic Fashion.
@@ -60,15 +62,19 @@ Usamos [Git y Github](http://github.com/) para el versionado.
 *SoftwareChasers();*
 
 - **Joan Samir Rosales Cadena** - [joansrc](https://github.com/joansrc)
--
 
 Soy Ingeniero Electronico de la ciudad de Cali, actualmente trabajo en una empresa de telecomunicaciones de mi ciudad y estoy en el programa de Mintic, para aprender y reforzar mucho mas mis conocimientos acerca del desarrollo de  software.
 
 - **José David Fontalvo Mejia** - [FontalvoJ](https://github.com/FontalvoJ)
--
-- Soy estudiante de Ingeniería de Sistemas de 6to semestre, en la Universidad Católica Luis Amigó sede Apartadó, vivo en el municipio de Carepa ubicado en la región de Uraba, al igual que mis compañeros estoy en el programa de Mintic, tengo conocimientos en html y css ya trabajador en los semestres de la carrera profesional y la idea es seguir aprendiendo y ampliar conocimientos.
 
--
+Soy estudiante de Ingeniería de Sistemas de 6to semestre, en la Universidad Católica Luis Amigó sede Apartadó, vivo en el municipio de Carepa ubicado en la región de Uraba, al igual que mis compañeros estoy en el programa de Mintic, tengo conocimientos en html y css ya trabajados en los semestres de la carrera profesional y la idea es seguir aprendiendo y ampliar conocimientos.
+
+- **Nancy Espinosa** - [NancyEspinosaj](https://github.com/NancyEspinosaj)
+
+Soy estudiante de ingenieria Industrial de último semestre de la UD, vivo en Bogotá, apasionada por la tecnología y con el deseo de llegar a ser Data Science. :dancer: :smiley_cat:  :new_moon_with_face:
+
+- **Ana Milena Espinosa** - [](https://github.com/AnaMilenaE)
+Soy estudiante de ingeniería electrónica de séptimo en la universidad Nacional de Colombia, vivo en Bogotá, actualmente soy tripulante de mision TIC para mejorar mis habilidades en desarrollo de software.
 
 
 ## **Licencia 📄**
