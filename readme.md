@@ -10,7 +10,7 @@ Proyecto desarrollado por el grupo de trabajo SoftwareChasers();
 
 - ✅ **Integrantes del equipo y roles:**
     1.  Joan Rosales - Desarrollador y Administrador de BD 
-    2.  
+    2.  Jose David Fontalvo - Scrum Master
     3. 
     4.
     5.
@@ -60,14 +60,13 @@ Usamos [Git y Github](http://github.com/) para el versionado.
 *SoftwareChasers();*
 
 - **Joan Samir Rosales Cadena** - [joansrc](https://github.com/joansrc)
+-
 
 Soy Ingeniero Electronico de la ciudad de Cali, actualmente trabajo en una empresa de telecomunicaciones de mi ciudad y estoy en el programa de Mintic, para aprender y reforzar mucho mas mis conocimientos acerca del desarrollo de  software.
 
+- **José David Fontalvo Mejia** - [FontalvoJ](https://github.com/FontalvoJ)
 -
-
--
-
--
+- Soy estudiante de Ingeniería de Sistemas de 6to semestre, en la Universidad Católica Luis Amigó sede Apartadó, vivo en el municipio de Carepa ubicado en la región de Uraba, al igual que mis compañeros estoy en el programa de Mintic, tengo conocimientos en html y css ya trabajador en los semestres de la carrera profesional y la idea es seguir aprendiendo y ampliar conocimientos.
 
 -
 
