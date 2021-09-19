@@ -11,9 +11,10 @@ Proyecto desarrollado por el grupo de trabajo SoftwareChasers();
 - ✅ **Integrantes del equipo y roles:**
     1.  Joan Rosales - Desarrollador y Administrador de BD 
     2.  Jose David Fontalvo - Scrum Master
-    3.  Nancy Espinosa -  
+    3.  Nancy Espinosa - Desarrollador 
     4.  Ana Espinosa - Desarrollador
-    6.
+    5.
+
 
 
 - 📕 **Acerca del proyecto:**
@@ -69,10 +70,10 @@ Soy estudiante de Ingeniería de Sistemas de 6to semestre, en la Universidad Cat
 
 - **Nancy Espinosa** - [NancyEspinosaj](https://github.com/NancyEspinosaj)
 
-Soy estudiante de ingenieria Industrial de ultimo semestre de la UD, vivo en Bogota, apasionada por la tecnologia y con el deseo de llegar a ser Data Science. :dancer: :smiley_cat:  :new_moon_with_face:
+Soy estudiante de ingenieria Industrial de último semestre de la UD, vivo en Bogotá, apasionada por la tecnología y con el deseo de llegar a ser Data Science. :dancer: :smiley_cat:  :new_moon_with_face:
 
-- **Ana Milena Espinosa** - []()
-
+- **Ana Milena Espinosa** - [](https://github.com/AnaMilenaE)
+Soy estudiante de ingeniería electrónica de séptimo en la universidad Nacional de Colombia, vivo en Bogotá, actualmente soy tripulante de mision TIC para mejorar mis habilidades en desarrollo de software.
 
 
 ## **Licencia 📄**
