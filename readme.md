@@ -11,8 +11,8 @@ Proyecto desarrollado por el grupo de trabajo SoftwareChasers();
 - ✅ **Integrantes del equipo y roles:**
     1.  Joan Rosales - Desarrollador y Administrador de BD 
     2.  Jose David Fontalvo - Scrum Master
-    3. 
-    4.
+    3.  Nancy Espinosa -  
+    4.  Ana Espinosa - 
     5.
 
 
@@ -68,7 +68,13 @@ Soy Ingeniero Electronico de la ciudad de Cali, actualmente trabajo en una empre
 -
 - Soy estudiante de Ingeniería de Sistemas de 6to semestre, en la Universidad Católica Luis Amigó sede Apartadó, vivo en el municipio de Carepa ubicado en la región de Uraba, al igual que mis compañeros estoy en el programa de Mintic, tengo conocimientos en html y css ya trabajador en los semestres de la carrera profesional y la idea es seguir aprendiendo y ampliar conocimientos.
 
+- **Nancy Espinosa** - [NancyEspinosaj](https://github.com/NancyEspinosaj)
 -
+- Soy estudiante de ingenieria Industrial de ultimo semestre de la UD, vivo en Bogota, apasionada por la tecnologia y con el deseo de llegar a ser Data Science.
+
+- **Ana Milena Espinosa** - []()
+-
+- 
 
 
 ## **Licencia 📄**
