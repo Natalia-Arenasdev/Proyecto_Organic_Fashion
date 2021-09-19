@@ -65,7 +65,7 @@ Soy Ingeniero Electronico de la ciudad de Cali, actualmente trabajo en una empre
 
 - **José David Fontalvo Mejia** - [FontalvoJ](https://github.com/FontalvoJ)
 
-Soy estudiante de Ingeniería de Sistemas de 6to semestre, en la Universidad Católica Luis Amigó sede Apartadó, vivo en el municipio de Carepa ubicado en la región de Uraba, al igual que mis compañeros estoy en el programa de Mintic, tengo conocimientos en html y css ya trabajador en los semestres de la carrera profesional y la idea es seguir aprendiendo y ampliar conocimientos.
+Soy estudiante de Ingeniería de Sistemas de 6to semestre, en la Universidad Católica Luis Amigó sede Apartadó, vivo en el municipio de Carepa ubicado en la región de Uraba, al igual que mis compañeros estoy en el programa de Mintic, tengo conocimientos en html y css ya trabajados en los semestres de la carrera profesional y la idea es seguir aprendiendo y ampliar conocimientos.
 
 - **Nancy Espinosa** - [NancyEspinosaj](https://github.com/NancyEspinosaj)
 
