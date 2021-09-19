@@ -69,7 +69,7 @@ Soy estudiante de Ingeniería de Sistemas de 6to semestre, en la Universidad Cat
 
 - **Nancy Espinosa** - [NancyEspinosaj](https://github.com/NancyEspinosaj)
 
-Soy estudiante de ingenieria Industrial de ultimo semestre de la UD, vivo en Bogota, apasionada por la tecnologia y con el deseo de llegar a ser Data Science.
+Soy estudiante de ingenieria Industrial de ultimo semestre de la UD, vivo en Bogota, apasionada por la tecnologia y con el deseo de llegar a ser Data Science. :dancer: :smiley_cat:  :new_moon_with_face:
 
 - **Ana Milena Espinosa** - []()
 
