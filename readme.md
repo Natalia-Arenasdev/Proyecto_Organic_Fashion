@@ -12,8 +12,8 @@ Proyecto desarrollado por el grupo de trabajo SoftwareChasers();
     1.  Joan Rosales - Desarrollador y Administrador de BD 
     2.  Jose David Fontalvo - Scrum Master
     3.  Nancy Espinosa -  
-    4.  Ana Espinosa - 
-    5.
+    4.  Ana Espinosa - Desarrollador
+    6.
 
 
 - 📕 **Acerca del proyecto:**
