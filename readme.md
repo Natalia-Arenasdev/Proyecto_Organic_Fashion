@@ -76,6 +76,8 @@ Soy estudiante de ingenieria Industrial de último semestre de la UD, vivo en Bo
 - **Ana Milena Espinosa** - [](https://github.com/AnaMilenaE)
 Soy estudiante de ingeniería electrónica de séptimo en la universidad Nacional de Colombia, vivo en Bogotá, actualmente soy tripulante de mision TIC para mejorar mis habilidades en desarrollo de software.
 
+- **Yoiner Esmith Molina Hurtatiz** - [](https://github.com/Yoiner04)
+Soy estudiante de ingeniería de sistemas de tercer semestre en la universidad de la Amazonia, vivo en Suaza, actualmente soy tripulante de mision TIC para mejorar mis habilidades en desarrollo de software.
 
 ## **Licencia 📄**
 
