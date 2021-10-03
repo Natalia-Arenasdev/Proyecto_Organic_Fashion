@@ -5,5 +5,7 @@ Interfaz de vendedores para registrar, listar y actualizar la informacion person
 ##Rutas:
 
 / : Ruta del listado de vendedores.
+
 /registrar-vendedor : Ruta para registrar vendedores nuevos.
+
 /actualizar-info-vendedor : Ruta para actualizar informacion de los vendedores.
