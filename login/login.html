@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <title>Iniciar sesión</title>
+    <link rel="stylesheet" href="login.css">
+    <script src="login.js" type="text/javascript"></script>
+</head>
+
+<body>
+    <form action="javascript:void(0)" class="form-login">
+        <div>
+            <label for="usuario">Usuario</label>
+            <br>
+            <input id="usuario" pattern="[a-zA-Z]+" type="text" required>
+        </div>
+        <div>
+            <label for="contrasenia">Contraseña</label>
+            <br>
+            <input id="contrasenia" minlength="4" maxlength="6" type="password" required>
+        </div>
+        <button type="submit">Iniciar sesión</button>
+    </form>
+</body>
+
+</html>
