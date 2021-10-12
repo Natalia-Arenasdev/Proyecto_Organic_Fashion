@@ -1,0 +1,43 @@
+body {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Segoe UI";
+  background-image: url("img/fondo.jpg");
+  background-size: 100%;
+}
+
+.form-login {
+  height: 200px;
+  width: 300px;
+  border: 1px solid gray;
+  padding: 16px;
+  text-align: center;
+  background-color: white;
+}
+
+.form-login input {
+  margin-bottom: 16px;
+  width: 60%;
+  border-radius: 4px;
+  border-width: 1px;
+  height: 32px;
+}
+
+.form-login button {
+  width: 60%;
+  padding: 4px;
+  cursor: pointer;
+  background-color: rgb(0, 104, 139);
+  border-width: 0;
+  color: white;
+  border-radius: 4px;
+  height: 32px;
+}
+
+.form-login button:hover {
+  background-color: rgba(0, 104, 139, 0.8);
+}
